@@ -1,5 +1,5 @@
 To run...
 
-mvn tomcat7:run
+mvn jetty:run
 
 ...should do the trick.
